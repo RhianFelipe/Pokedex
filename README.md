@@ -6,7 +6,7 @@
 * HTML
 * CSS 
 * API [Pokeapi.co](https://pokeapi.co/)
-
+--------------------------------------------------
 
 ### 🎨 Ilustrações
 
